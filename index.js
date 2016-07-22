@@ -55,7 +55,6 @@ var styles = StyleSheet.create({
   group: {
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center',
     overflow: 'hidden'
   }
 });
